@@ -333,6 +333,7 @@ img::-moz-selection {
   margin-bottom: 0;
   padding: 10px;
   color: white;
+  font-size: 14px;
 }
 .whats-going-on .whats-going-on-cont a {
   background-color: #b30000;
